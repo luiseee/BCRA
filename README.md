@@ -3,7 +3,7 @@
 Esta libreria hace más facil la obtencion de informacion de las variables macroeconomicas publicadas por el BCRA.
 
 
-### License 
+### Licencia 
 
 MIT License
 
