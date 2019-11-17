@@ -54,7 +54,3 @@ class BCRA:
 
 	def monthly_inflation(self):
 		pass
-
-
-central_bank = BCRA()
-data = central_bank.monetary_base('2 M')
