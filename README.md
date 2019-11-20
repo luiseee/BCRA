@@ -13,9 +13,9 @@ Esta libreria hace más facil la obtencion de informacion de las variables macro
 El ```(timeframe)``` es definido usando ```Y``` para años, ```W``` para semanas y ```M``` para meses.
 
 * Ejemplo :
-1 - ```BCRA.monetary_base('1 Y')``` : Debera traer el historico de la base monetaria del ultimo año.
-2 - ```BCRA.monetary_base('1 M')``` : Debera traer el historico de la base monetaria del ultimo mes.
-3 - ```BCRA.monetary_base('1 W')``` : Debera traer el historico de la base monetaria de la ultima semana.
+1. ```BCRA.monetary_base('1 Y')``` : Debera traer el historico de la base monetaria del ultimo año.
+2. ```BCRA.monetary_base('1 M')``` : Debera traer el historico de la base monetaria del ultimo mes.
+3. ```BCRA.monetary_base('1 W')``` : Debera traer el historico de la base monetaria de la ultima semana.
 
 
 ### Disclaimer
