@@ -2,6 +2,12 @@
 
 Esta libreria hace más facil la obtencion de informacion de las variables macroeconomicas publicadas por el BCRA.
 
+## Metodos
+
+```BCRA.monetary_base(timeframe)```
+```BCRA.fx_reserves(timeframe)```
+```BCRA.monthly_inflation```
+
 
 ### Disclaimer
 
