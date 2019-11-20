@@ -4,9 +4,9 @@ Esta libreria hace más facil la obtencion de informacion de las variables macro
 
 ## Metodos
 
-```BCRA.monetary_base(timeframe)```
-```BCRA.fx_reserves(timeframe)```
-```BCRA.monthly_inflation```
+* ```BCRA.monetary_base(timeframe)``` : Base Monetaria - Promedio acumulado del mes (MM de $)
+* ```BCRA.fx_reserves(timeframe)``` : Reservas Internacionales del BCRA (MM de USD)
+* ```BCRA.monthly_inflation``` : Inflación mensual (variación en %)
 
 
 ### Disclaimer
