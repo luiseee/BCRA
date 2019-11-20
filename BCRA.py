@@ -44,9 +44,9 @@ def base_parsing(timeframe: str, series_id: str, detalle: str):
 def monetary_base(timeframe: str) -> list:
 	return base_parsing(timeframe, '7930', 'Base Monetaria - Promedio acumulado del mes  (MM de $)')
 
-def fx_reserves():
-	pass
+def fx_reserves(timeframe: str) -> list:
+	return base_parsing(timeframe, '246', 'Reservas Internacionales del BCRA (en millones de dólares - cifras provisorias sujetas a cambio de valuación)')
 
-def monthly_inflation():
-	pass
+def monthly_inflation(timeframe: str) -> list:
+	return base_parsing(timeframe, '7931', 'Base Monetaria - Promedio acumulado del mes  (MM de $)')
 
