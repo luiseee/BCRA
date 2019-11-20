@@ -1,4 +1,4 @@
-## Banco Central de la República Argentina
+# Banco Central de la República Argentina
 
 Esta libreria hace más facil la obtencion de informacion de las variables macroeconomicas publicadas por el BCRA.
 
