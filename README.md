@@ -8,6 +8,15 @@ Esta libreria hace más facil la obtencion de informacion de las variables macro
 * ```BCRA.fx_reserves(timeframe)``` : Reservas Internacionales del BCRA (MM de USD)
 * ```BCRA.monthly_inflation``` : Inflación mensual (variación en %)
 
+## Timeframe
+
+El ```(timeframe)``` es definido usando ```Y``` para años, ```W``` para semanas y ```M``` para meses.
+
+* Ejemplo :
+```BCRA.monetary_base('1 Y')``` : Debera traer el historico de la base monetaria del ultimo año.
+```BCRA.monetary_base('1 M')``` : Debera traer el historico de la base monetaria del ultimo mes.
+```BCRA.monetary_base('1 W')``` : Debera traer el historico de la base monetaria de la ultima semana.
+
 
 ### Disclaimer
 
