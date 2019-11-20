@@ -1,5 +1,7 @@
 # Banco Central de la República Argentina
 
+[![Build Status](https://travis-ci.org/luisemp/BCRA.svg?branch=master)](https://travis-ci.org/luisemp/BCRA)
+
 Esta libreria hace más facil la obtencion de informacion de las variables macroeconomicas publicadas por el BCRA.
 
 ## Metodos
